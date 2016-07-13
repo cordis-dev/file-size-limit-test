@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 namespace file-size-limit-test
 {
-	partial class less_than_1mb
+	partial class less_than_1mb_v1
 		
 		[Test]
 		public void TestUnpackDictionary_Stream_Map16MaxValue_AsMap16_AsIs()
