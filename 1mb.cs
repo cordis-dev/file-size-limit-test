@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 namespace file-size-limit-test
 {
-	partial class test
+	partial class one_mb
 	{
 		[Test]
 		[ExpectedException( typeof( MessageTypeException ) )]
